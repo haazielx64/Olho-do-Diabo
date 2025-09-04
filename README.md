@@ -1,2 +1,2 @@
 # Olho-do-Diabo
-raid discord
+use com moderação
